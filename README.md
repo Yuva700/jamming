@@ -1,3 +1,35 @@
+To create this Web Based Application Audio Playlist organizer(Customizer)
+
+In this PROJECT i used following Programming Languages 
+
+React, JavaScript, HTML, CSS 
+
+Code Editor and Other Tools used in this Project: Visual Studio Code, Bash, Git, Spotify API
+
+Important COMMAND's used in the Project on Bash
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+(Note: you want to change MY-APP name with your Main(Project) folder name)
+
+OUTPUT you can see in Browser(after every time you Enter npm start in Bash(CLI)) 
+
+Important Things you want to Create and RUN this Web Based App successfully:
+
+http://localhost:3000/ (it will open in browser automatically when you type npm start)
+Spotify Account
+Spotify Developer Account
+GOTO Spotify Create An App  ( https://developer.spotify.com/ (OR) https://developer.spotify.com/dashboard/applications)
+GOTO Edit settings in Redirect URI you want to type (http://localhost:3000/) then  add it and save it
+COPY Spotify Client ID and paste it to Spotify.js which place it asks Client ID
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
