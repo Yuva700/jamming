@@ -8,11 +8,22 @@ Code Editor and Other Tools used in this Project: Visual Studio Code, Bash, Git,
 
 Important COMMAND's used in the Project on Bash
 
+In Terminal or Command line type
+
+#To install npm
+npm install (or) npm install -g npm
+
+#To check already installed npm version (optional)
+npm -v 
+
+#To check already installed node version (optional)
+node -v
+
 npx create-react-app my-app
 cd my-app
 npm start
 
-(Note: you want to change MY-APP name with your Main(Project) folder name)
+(Note: you want to change MY-APP name  in that place you can give anyname  but Small Letter aka Lowercase)
 
 OUTPUT you can see in Browser(after every time you Enter npm start in Bash(CLI)) 
 
